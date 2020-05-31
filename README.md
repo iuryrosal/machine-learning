@@ -10,6 +10,7 @@ Em 2018, entrei na Universidade Federal do Ceará no curso de Engenharia de Comp
 Recentemente estou iniciando os estudos na área de data science e machine learning, em que estou atuando em um projeto voluntário de análise de dados de casos de COVID-19 com aspectos climátios e socioeconômicas da cidade de Fortaleza (CE). Além disso, possuo um canal no Youtube onde atuou de form voluntária compartilhando os conhecimentos e projetos que me envolvo. 
 
 **Já trabalhou com** Python, Machine Learning, Data Science, Ruby On Rails, HTML/CSS, Wordpress.
+
 **Atributos Pessoais** Gestão, Organização, Comunicação, Estudo, Ensino, Criatividade e Prestativo.
 
 **Links:**
